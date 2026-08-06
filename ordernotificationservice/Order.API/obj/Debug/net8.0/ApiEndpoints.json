@@ -1,0 +1,40 @@
+[
+  {
+    "ContainingType": "Order.API.Endpoints.OrderEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CMapOrderEndpoint\u003Eb__0_0",
+    "RelativePath": "orders",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Order.Application.DTOs.CreateOrderDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Order.API.Endpoints.OrderEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CMapOrderEndpoint\u003Eb__0_1",
+    "RelativePath": "orders",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
