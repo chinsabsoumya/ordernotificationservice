@@ -78,18 +78,6 @@
       "RelativeMoniker": "D:0:0:{04B062BE-91FD-48AC-A86E-79196546FD0D}|Shared.Contracts\\Shared.Contracts.csproj|solutionrelative:shared.contracts\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F53637A-8C3E-4A8B-A880-5CF5B5437218}|Notification.Infrastructure\\Notification.Infrastructure.csproj|c:\\users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\notification.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F53637A-8C3E-4A8B-A880-5CF5B5437218}|Notification.Infrastructure\\Notification.Infrastructure.csproj|solutionrelative:notification.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4709B82-9412-449B-9FC0-BF12EFFF995E}|Notification.Domain\\Notification.Domain.csproj|c:\\users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\notification.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4709B82-9412-449B-9FC0-BF12EFFF995E}|Notification.Domain\\Notification.Domain.csproj|solutionrelative:notification.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6949503-5942-4886-961A-147D5B97BA24}|Notification.Application\\Notification.Application.csproj|c:\\users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\notification.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6949503-5942-4886-961A-147D5B97BA24}|Notification.Application\\Notification.Application.csproj|solutionrelative:notification.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C380DFE-1037-4643-8AB9-0912F12CA229}|Order.Infrastructure\\Order.Infrastructure.csproj|c:\\users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\order.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C380DFE-1037-4643-8AB9-0912F12CA229}|Order.Infrastructure\\Order.Infrastructure.csproj|solutionrelative:order.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -195,7 +183,7 @@
               "RelativeDocumentMoniker": "Order.Tests\\createOrderValidatorTest.cs",
               "ToolTip": "C:\\Users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\Order.Tests\\createOrderValidatorTest.cs",
               "RelativeToolTip": "Order.Tests\\createOrderValidatorTest.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-06T08:57:14.705Z",
               "EditorCaption": ""
@@ -438,45 +426,6 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\Notification.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "Notification.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\Notification.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "Notification.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T06:09:59.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\Notification.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Notification.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\Notification.Domain\\Class1.cs",
-              "RelativeToolTip": "Notification.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T06:09:37.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\Notification.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Notification.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\Notification.Application\\Class1.cs",
-              "RelativeToolTip": "Notification.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T06:09:16.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\Order.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "Order.Infrastructure\\Class1.cs",
               "ToolTip": "C:\\Users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\Order.Infrastructure\\Class1.cs",
@@ -488,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\Order.Application\\Class1.cs",
               "RelativeDocumentMoniker": "Order.Application\\Class1.cs",
@@ -501,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\chinsab.soumya\\source\\repos\\ordernotificationservice\\ordernotificationservice\\Order.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "Order.Domain\\Class1.cs",
